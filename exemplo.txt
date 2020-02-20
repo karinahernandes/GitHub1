@@ -3,4 +3,8 @@ Olá Git
 Primeira alteração
 segunda alteração
 
+<<<<<<< HEAD
 linha adicionada no arquivo master
+=======
+linha adicionada - alternativo (Ramo)
+>>>>>>> alternativo
