@@ -2,3 +2,5 @@ Olá Git
 
 Primeira alteração
 segunda alteração
+
+linha adicionada - alternativo (Ramo)
